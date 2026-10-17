@@ -2,9 +2,7 @@
 
 ### 💻 Full-Stack & Mobile App Developer | Bot Systems Specialist | Cloud & Hosting Solutions
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=induminaamarasinghe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
